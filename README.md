@@ -1,10 +1,10 @@
 
 
-## Play at [Lil Square Of Eight](https://diteix.github.io/lil-square-of-eight/) !!!
+## Play at [Dots and Boxes](https://diteix.github.io/lil-square-of-eight/) !!!
 
-en-US
-
-- Each time a player click a side of one square. The player who close the last line of a square owns it and can continue to select another line. The game finish when all squares are filled. Wins the player who has most squares filled.
+- Each time a player click a side of one square. 
+- The player who close the last line of a square owns it and can continue to select another line. 
+- The game finish when all squares are filled. Wins the player who has most squares filled.
 
 ## Jogue em [Lil Square Of Eight](https://diteix.github.io/lil-square-of-eight/) !!!
 
