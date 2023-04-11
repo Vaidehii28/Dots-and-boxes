@@ -1,4 +1,4 @@
-# lil-square-of-eight [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 ## Play at [Lil Square Of Eight](https://diteix.github.io/lil-square-of-eight/) !!!
 
